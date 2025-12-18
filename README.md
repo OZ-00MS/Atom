@@ -4,14 +4,11 @@ A simple **3D Atom visualization** built with **Three.js** using **pure HTML & J
 
 This project is beginner‑friendly and runs directly in the browser.
 
----
 
-## 🚀 Demo
 
 ### 📸 Preview
-<img width="899" height="804" alt="Screenshot 2025-08-26 133705" src="https://github.com/user-attachments/assets/6cf2e262-d48e-415f-a066-18f76b0ac290" />
-<img width="918" height="744" alt="Screenshot 2025-08-26 133634" src="https://github.com/user-attachments/assets/365df0ba-3661-460e-b07d-a5a871130a24" />
-<img width="895" height="708" alt="Screenshot 2025-08-26 133602" src="https://github.com/user-attachments/assets/47e4f792-0597-4a1d-8aa8-7b05f9b23627" />
+https://github.com/user-attachments/assets/3237ee32-80e5-4613-aed5-9914a0fc8148
+
 
 
 
